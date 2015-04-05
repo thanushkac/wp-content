@@ -1,0 +1,202 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*
+Theme Name: Samurai Of legend
+Author: Thanushka Chandardasa
+*/
+html {
+  font-family: 'Open Sans', sans-serif;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
+body {
+  margin: 0;
+}
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+  line-height: 17px;
+  color: #ffffff;
+  webkit-font-smoothing: antialiased;
+  font-weight: 400;
+  background-image:url(images/innerbg.jpg);
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-color: #000;
+}
+.bold, b{
+	font-family:"Arial", Gadget, sans-serif;
+	font-weight: bolder;
+}
+a, .a, a:active, a:visited{
+	color: #ff7800;
+	text-decoration: none;
+}
+
+h1 {
+font-family: 'Open Sans', sans-serif;
+font-size: 10pt;
+color: #e8dd37;
+text-align: center;
+background-color: #1e1e1e;
+padding-top: 4px;
+padding-bottom: 4px;
+font-variant: small-caps;
+letter-spacing: 1px;
+border-top: 2px solid #777777;
+border-bottom: 2px solid #777777;
+
+}
+hr{
+	border-top: 1px solid #777777;
+	border-bottom: none;
+}
+.wrapper{
+	width: 980px;
+	 margin-right: auto;
+  margin-left: auto;
+}
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+.col{
+position: relative;
+  min-height: 1px;
+  float: left;
+}
+.clearfix{
+	clear:both;
+	
+}
+.donate{
+	float:right;
+	margin-top: 90px;
+}
+.stats{
+	margin-left: 165px;
+	margin-top: 36px;
+	width: 400px;
+	color: #000000;
+}
+.time{
+color: #1fe0fd;;
+font-size: 11px;
+text-align:center;
+margin-left:-20px;
+margin-top: 25px;
+line-height: 15px;
+}
+.username{
+	color: #980e01;
+	font-family:"Arial Black", Gadget, sans-serif;
+	line-height: 20px;
+	margin-top: 5px;
+	margin-bottom: 0px;
+}
+.small-txt{
+	font-size: 11px;
+	line-height: 17px;
+	font-weight: 700;
+	
+}
+.orange-txt{
+color: #7b0d04;
+}
+.bar{
+	-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;
+height: 4px;
+background-color: #b0de27;
+border: 1px solid #2c100b;
+}
+.barcol{
+	width: 50px;
+}
+img {
+  border: 0;
+}
+a:active,
+a:hover {
+  outline: 0;
+}
+a:focus {
+  outline: none;
+  outline: 0px auto -webkit-focus-ring-color;
+}
+.sidebar{
+	margin-top: 30px;
+	margin-left: 20px;
+	width: 170px;
+	font-size: 12px;
+	line-height: 16px;
+}
+.gamecontent{
+	margin-left: 53px;
+	width: 735px;
+	
+	
+	
+}
+h3:after {
+    margin-left: 10px;
+    content:url(images/samurailetter.png);
+    width:20px;
+    bottom:3px;
+	
+}
+h3:before {
+    margin-right: 10px;
+    content:url(images/samurailetter.png);
+    width:20px;
+    bottom:3px;
+	
+}
+
+
+h3{
+	font-size: 16px;
+	line-height: 20px;
+	text-align: center;
+	margin-top: 0px;
+	
+}
+.gamecontent table{
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 10px;
+	
+}
+
+
+.table th {
+font-family: 'Open Sans', sans-serif;
+font-size: 11pt;
+color: #000000;
+text-align: center;
+padding-top: 4px;
+padding-bottom: 4px;
+font-variant: small-caps;
+letter-spacing: 1px;
+background-image: url(images/thbg.png);
+background-repeat:repeat; 
+line-height: 22px;
+font-weight:700;
+}
+.footer{
+	background-image: url(images/footer.jpg);
+	background-repeat: repeat-x;
+	height: 200px;
+	margin-top: 60px;
+	padding-top: 100px;
+	color: #000;
+	text-align: center;
+}

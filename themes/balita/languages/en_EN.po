@@ -1,0 +1,421 @@
+# Translation of Tokokoo in english
+# This file is distributed under the same license as the Tokokoo package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Balita\n"
+"POT-Creation-Date: 2011-10-12\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Onnay Okheng <onnay.okheng@gmail.com>\n"
+"Language-Team: Onnay Okheng <onnay.okheng@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 404.php:5
+#: footer.php:5
+msgid "Sorry, Nothing was Found"
+msgstr ""
+
+#: 404.php:6
+#: footer.php:6
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr ""
+
+#: comments.php:22
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:33
+msgid "Customer comments"
+msgstr ""
+
+#: comments.php:34
+#: comments.php:74
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:74
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:81
+msgid "You must be <a href='%s'>logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:93
+msgid "Name"
+msgstr ""
+
+#: comments.php:93
+#: comments.php:96
+msgid "(required)"
+msgstr ""
+
+#: comments.php:96
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: comments.php:99
+msgid "Website"
+msgstr ""
+
+#: comments.php:103
+msgid "<strong>XHTML:</strong> You can use these tags: <code>%s</code>"
+msgstr ""
+
+#: comments.php:107
+msgid "Submit Comment"
+msgstr ""
+
+#: footer.php:20
+#: footer.php:30
+#: footer.php:40
+#: footer.php:50
+msgid "Archives"
+msgstr ""
+
+#: footer.php:56
+msgid "Follow Us"
+msgstr ""
+
+#: header.php:48
+msgid "My Account"
+msgstr ""
+
+#: header.php:66
+msgid "Shopping Cart"
+msgstr ""
+
+#: header.php:70
+msgid "detail"
+msgstr ""
+
+#: home.php:26
+#: wpsc-shopping_cart_page.php:302
+msgid "Sign Up"
+msgstr ""
+
+#: loop.php:5
+msgid "Posts Tagged &ldquo;"
+msgstr ""
+
+#: loop.php:7
+#: loop.php:9
+#: loop.php:11
+msgid "Archive for"
+msgstr ""
+
+#: loop.php:13
+msgid "Author Archive"
+msgstr ""
+
+#: loop.php:15
+msgid "Blog Archives"
+msgstr ""
+
+#: loop.php:18
+msgid "Subscribe this blog"
+msgstr ""
+
+#: loop.php:36
+#: search.php:66
+#: template-blog.php:41
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: loop.php:43
+msgid "&laquo; Previous Posts"
+msgstr ""
+
+#: loop.php:44
+msgid "Next Posts &raquo;"
+msgstr ""
+
+#: page.php:16
+#: search.php:59
+#: template-blog.php:36
+msgid "More"
+msgstr ""
+
+#: single.php:14
+msgid "Posted in"
+msgstr ""
+
+#: search.php:17
+msgid "Products"
+msgstr ""
+
+#: search.php:48
+msgid "Posts"
+msgstr ""
+
+#: wpsc-cart_widget.php:11
+#: wpsc-shopping_cart_page.php:32
+msgid "Total"
+msgstr ""
+
+#: wpsc-cart_widget.php:13
+msgid "excluding shipping and tax"
+msgstr ""
+
+#: wpsc-cart_widget.php:29
+#: wpsc-shopping_cart_page.php:55
+msgid "No Image"
+msgstr ""
+
+#: wpsc-cart_widget.php:55
+msgid "Checkout"
+msgstr ""
+
+#: wpsc-cart_widget.php:58
+msgid "Empty Your Cart"
+msgstr ""
+
+#: wpsc-cart_widget.php:58
+msgid "Clear cart"
+msgstr ""
+
+#: wpsc-cart_widget.php:67
+msgid "Your shopping cart is empty"
+msgstr ""
+
+#: wpsc-cart_widget.php:68
+msgid "Visit Shop"
+msgstr ""
+
+#: wpsc-products_page.php:20
+msgid "Products with:"
+msgstr ""
+
+#: wpsc-products_page.php:55
+msgid "Sale"
+msgstr ""
+
+#: wpsc-products_page.php:65
+msgid "There are no products in this group."
+msgstr ""
+
+#: wpsc-products_page.php:53
+#: wpsc-shopping_cart_page.php:31
+#: wpsc-single_product.php:214
+msgid "Price"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:10
+msgid "Oops, there is nothing in your cart."
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:10
+msgid "Please visit our shop"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:20
+msgid "Please review your order"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:29
+msgid "Product"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:30
+#: wpsc-single_product.php:230
+msgid "Quantity"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:33
+#: wpsc-shopping_cart_page.php:84
+msgid "Remove"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:104
+msgid "Coupon is not valid."
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:108
+msgid "Coupon code"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:109
+msgid "Enter your coupon code here."
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:113
+msgid "Update"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:119
+msgid "Cost before shipping:"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:144
+msgid "Calculate Shipping Price"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:148
+msgid "Please choose a country below to calculate your shipping costs"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:156
+msgid "Please provide a Zipcode and click Calculate in order to continue."
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:162
+msgid "Sorry, online ordering is unavailable to this destination and/or weight. Please double check your destination details."
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:180
+msgid " - Choose a Shipping Rate"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:234
+msgid "Review and purchase"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:240
+msgid "Total Shipping"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:251
+msgid "Discount"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:261
+msgid "Total Price"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:293
+msgid "You must sign in or register with us to continue with your purchase"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:296
+msgid "Sign in"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:321
+msgid "Join up now"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:323
+msgid "Username"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:326
+msgid "Password"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:329
+msgid "E-mail"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:332
+msgid "Signing up is free and easy! please fill out your details your registration will happen automatically as you checkout. Don't forget to use your details to login with next time!"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:379
+msgid "Same as billing address:"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:381
+msgid "Your order will be shipped to the billing address"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:424
+msgid "Enter your email address"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:462
+msgid "How did you find us"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:465
+msgid "Word of mouth"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:466
+msgid "Advertising"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:467
+msgid "Internet"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:468
+msgid "Existing Customer"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:479
+msgid "Payment Type"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:527
+msgid "Purchase"
+msgstr ""
+
+#: wpsc-single_product.php:64
+msgid "Related Products"
+msgstr ""
+
+#: wpsc-single_product.php:100
+msgid "Product in stock"
+msgstr ""
+
+#: wpsc-single_product.php:102
+msgid "Product not in stock"
+msgstr ""
+
+#: wpsc-single_product.php:161
+msgid "Personalize Your Product"
+msgstr ""
+
+#: wpsc-single_product.php:162
+msgid "Complete this form to include a personalized message with your purchase."
+msgstr ""
+
+#: wpsc-single_product.php:172
+msgid "Upload a File"
+msgstr ""
+
+#: wpsc-single_product.php:173
+msgid "Select a file from your computer to include with this purchase."
+msgstr ""
+
+#: wpsc-single_product.php:180
+msgid "Product Options"
+msgstr ""
+
+#: wpsc-single_product.php:208
+msgid "Donation"
+msgstr ""
+
+#: wpsc-single_product.php:212
+msgid "Old Price"
+msgstr ""
+
+#: wpsc-single_product.php:216
+msgid "You save"
+msgstr ""
+
+#: wpsc-single_product.php:223
+msgid "Shipping"
+msgstr ""
+
+#: wpsc-single_product.php:246
+msgid "Buy Now"
+msgstr ""
+
+#: wpsc-single_product.php:248
+msgid "Add To Cart"
+msgstr ""
+
+#: wpsc-single_product.php:252
+msgid "Updating cart..."
+msgstr ""
+
+#: wpsc-single_product.php:256
+msgid "This product has sold out."
+msgstr ""
+

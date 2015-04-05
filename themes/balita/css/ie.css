@@ -1,0 +1,44 @@
+.ie7 #header {
+  z-index: 10;
+  position: relative;
+}
+.ie7 #main {
+  z-index: 0;
+  position: relative;
+}
+.ie7 .menu ul {
+  margin-top: -1px;
+}
+.ie7 #loginSearch input[type="submit"] {
+  width: 63px;
+}
+.ie7 img.avatar {
+  width: 48px;
+  height: 48px;
+}
+.ie7 .wpcart_gallery .attachment-gold-thumbnails, .ie7 .imagecol .product_image {
+  cursor: pointer;
+}
+.ie7 #wpsc_shopping_cart_right input[type="text"] {
+  overflow: hidden;
+}
+
+.ie8 .menu ul {
+  margin-top: -1px;
+}
+.ie8 img.avatar {
+  width: 48px;
+  height: 48px;
+}
+.ie8 .wpcart_gallery .attachment-gold-thumbnails, .ie8 .imagecol .product_image {
+  cursor: pointer;
+}
+
+.ie9 #loginSearch input[type="submit"] {
+  width: 65px;
+  padding-bottom: 5px;
+}
+.ie9 img.avatar {
+  width: 48px;
+  height: 48px;
+}

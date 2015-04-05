@@ -1,0 +1,7 @@
+2011.10.24 - Version 1.1
+ * Fixed Link slider
+ * Adding IE Blocker
+ * Adding compatibility for IE7+ 
+
+2011.10.12 - Version 1.0
+ * Initialized

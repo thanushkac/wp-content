@@ -1,0 +1,161 @@
+/* Two Column Page */
+
+.twoColumnMainRightBox {
+	width: 280px;
+	float: left;
+	padding: 10px 15px 10px 15px;;
+	margin: 15px 0 20px 5px;
+	border-color: #DDDDDD;
+	border-width: 1px;
+	border-style: solid;
+}
+
+/* Side Random Profile */
+
+.sideRandomProfileSeparator {
+	border-color: #DDDDDD;
+	border-style: solid;
+	border-width: 1px 0 0 0;
+	width: 310px;
+	margin-left: -15px;
+}
+
+.sideRandomProfileName {
+	font-size: 14px;
+	line-height: 22px;
+	margin: 4px 0 16px 0;
+	color: #4E4E50;
+ 	text-align: center;
+}
+
+.sideRandomProfileTitle {
+	font-size: 18px;
+	text-align: center;
+	margin-top: 16px;
+}
+
+/* Side Youtube Profile */
+
+.sideRandomProfileImage {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* Side Static Box */
+
+.sideStaticBox {
+	width: 280px;
+	margin-top: 25px
+}
+
+.sideStaticBoxImage {
+	float: left;
+	width: 117px;
+	height: 73px;
+
+}
+
+.sideStaticBoxTitle {
+	float: left;
+	width: 150px;
+	font-size: 14px;
+	margin-left: 13px;
+}
+
+.sideStaticBoxText {
+	float: left;
+	width: 150px;
+	margin-left: 13px;
+	font-size: 12px;
+	color: #666666;
+	line-height: 16px;
+}
+
+/* Find A Family */
+
+.pageViewButton2 {
+	float: left;
+  padding-right: 5px;
+}
+
+.pageViewButton3 {
+	float:left;
+}
+
+/* Parent Profile */
+
+#ourLetterFormat > p {
+	margin: 0 20px 15px 0;
+}
+
+.innerBoxQuickFact {
+	padding: 0 15px 3px 15px;
+}
+
+.quoteRightSide {
+	width: 275px;
+	color: #AFAFAF;
+	font-size: 24px;
+	line-height: 35px;
+	margin-top: -4px;
+}
+
+.rightColumnProfile {
+	float: left;
+	width: 290px;
+	margin-left: 30px;
+}
+
+.topHeader {
+	background-color: #E6E6E6;
+	color: #3874A4;
+	font-size: 12px;
+	width: 599px;
+	height: 20px;
+	clear: both;
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+
+.profileTable td {
+	background-color: #E6E6E6;
+	padding: 0 10px 0 10px;
+	border-color: #FFF;
+	border-width: 1px 1px 0 0;
+	border-style: solid;
+	margin: 0;
+}
+
+.profileTable {
+	font-size: 12px;
+	width: 600px;
+	border-spacing: 0;
+	border-collapse: collapse;
+}
+
+.column1 {
+	width: 100px;
+}
+
+.column2 {
+	width: 250px;
+}
+
+.columnFunFact {
+	width: 300px;
+	vertical-align: top;
+}
+
+.column2Long {
+	width: 500px;
+}
+
+.column3 {
+	width: 250px;
+}
+
+a.nivo-prevNav {
+	z-index: 1;
+}

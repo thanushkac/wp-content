@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*
+Theme Name: AA Responsive
+Description: Responsive wordpress theme for America Adopts 
+Author: Blissful Interfaces
+Version: 1.0
+*/
+@import url('bootstrap/css/bootstrap.css'); 
+@import url('bootstrap/css/aacustom.css'); 
+

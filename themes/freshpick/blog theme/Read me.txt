@@ -1,0 +1,18 @@
+To add a new theme to your WordPress installation, follow these basic steps:
+
+   1. Download the theme archive and extract the files it contains. You may need to preserve the directory structure in the archive when extracting these files. Follow the guidelines provided by your theme author.
+   2. Using an FTP client to access your host web server, create a directory to contain your theme in the wp-content/themes directory provided by WordPress. For example, a theme named Test should be in wp-content/themes/test. Your theme may provide this directory as part of the archive.
+   3. Upload the theme files to the new directory on your host server.
+   4. Follow the instructions below for selecting the new theme. 
+
+
+ Selecting the Active Theme
+
+To select a theme for your site:
+
+   1. Log in to the WordPress Administration Panel.
+   2. Select the Appearance panel, then Themes.
+   3. From the Available Themes section, click on the theme title (or theme screenshot) for the theme you wish to activate.
+   4. A preview of the theme will be shown. To activate the theme click the Activate "Theme Name" link in the top right. 
+
+Your selection should immediately become active. 

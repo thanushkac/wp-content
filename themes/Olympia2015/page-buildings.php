@@ -88,27 +88,58 @@ yoast_breadcrumb('<p id="breadcrumbs">','</p>');
 
 </div>
 <div class="row">
-<div class="col-xs-4 badges text-center">
+<div class="col-md-2 badges text-center">
 
 <img class="img-responsive aligncenter" src="http://localhost:8888/wordpress/wp-content/uploads/2015/03/enginered.png" alt="enginered" />
 <p class="h3">Engineered</p>
 <p class="h6">to last a lifetime</p>
 
 </div>
-<div class="col-xs-4 badges text-center">
+<div class="col-md-2 badges text-center">
 
 <img class="img-responsive aligncenter" src="http://localhost:8888/wordpress/wp-content/uploads/2015/03/35.png" alt="35" />
 <p class="h3">35 Year</p>
-<p class="h6">Rust through perferation warrenty</p>
+<p class="h6">Rust-through perforation warranty on AZ55 Galvalume® roof panels</p>
 
 </div>
-<div class="col-xs-4 badges text-center">
+<div class="col-md-2 badges text-center">
 
 <img class="img-responsive aligncenter" src="http://localhost:8888/wordpress/wp-content/uploads/2015/03/40.png" alt="40" />
 <p class="h3">40 Year</p>
 <p class="h6">Warrenty on paint</p>
 
 </div>
+
+
+
+<div class="col-md-2 badges text-center">
+
+<img class="img-responsive aligncenter" src="http://localhost:8888/wordpress/wp-content/uploads/2015/03/40.png" alt="40" />
+<p class="h3">40 Year</p>
+<p class="h6">Warrenty on paint</p>
+
+</div>
+
+
+
+<div class="col-md-2 badges text-center">
+
+<img class="img-responsive aligncenter" src="http://localhost:8888/wordpress/wp-content/uploads/2015/03/40.png" alt="40" />
+<p class="h3">40 Year</p>
+<p class="h6">Warrenty on paint</p>
+
+</div>
+
+
+<div class="col-md-2 badges text-center">
+
+<img class="img-responsive aligncenter" src="http://localhost:8888/wordpress/wp-content/uploads/2015/03/40.png" alt="40" />
+<p class="h3">40 Year</p>
+<p class="h6">Warrenty on paint</p>
+
+</div>
+
+
 </div>
 </div>
 <!-- badges end-->

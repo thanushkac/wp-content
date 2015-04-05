@@ -154,17 +154,42 @@ yoast_breadcrumb('<p id="breadcrumbs">','</p>');
             </div>
             </div>
             
-              <div class="row">
-              <div class="col-sm-6">
+              <div class="row"> <!--ROW START-->
+              <div class="col-md-6">
+              <div> <!--row-start-->
               <p class="h5">Years of metal storage building design experience</p>
               <p>
               providing quality products at savings of up to 50% over conventional construction.
               </p>
+              </div> <!--row-end-->
+              <div> <!--row-start-->
+              <p class="h5">35-year rust-through perforation warranty</p>
+              <p>
+              providing quality products at savings of up to 50% over conventional construction.
+              </p>
+              </div> <!--row-end-->
+              <div> <!--row-start-->
+              <p class="h5">Years of metal storage building design experience</p>
+              <p>
+              providing quality products at savings of up to 50% over conventional construction.
+              </p>
+              </div> <!--row-end-->
+              <div> <!--row-start-->
+              <p class="h5">Years of metal storage building design experience</p>
+              <p>
+              providing quality products at savings of up to 50% over conventional construction.
+              </p>
+              </div> <!--row-end-->
               </div>
               <div class="col-sm-6">
+              <p class="h5">Personalized service</p>
+              <p>
+              from trained technicians who will respond to your inquiry, discuss your needs, and price a building to your specifications usually within 24 hours.
+              </p>
+              
               </div>
               
-              </div> 
+              </div>  <!--ROW END-->
             </div>    <!--CONTAINER END--> 
                     
                 
